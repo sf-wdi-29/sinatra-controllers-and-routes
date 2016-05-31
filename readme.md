@@ -41,7 +41,7 @@ What makes up a URL? Which is the "resource" part?
 
 ## Combining Verbs & Resources = RESTful Controller - Catch-up (15 mins)
 
-Let's see how the two work together - you can follow along. In the `starter-code`, we've already set up a simple Sinatra app for you, so we can focus just what we cover for the codealong.
+Let's see how the two work together - you can follow along. In the `starter-code`, we've already set up a simple Sinatra app for you, so we can focus just what we cover for the catch-up.
 
 Open up `starter-code` folder in terminal & editor. Based on what we learned yesterday, what are the first two things you do after you set up a new app? `bundle install` && `git init`.  There are only a set number of RESTful verbs – remember these! They're the architecture of the modern internet, and all modern web developers need to know what these are and how to write them. We're going to combine a verb & a resource URL to create each.
 
@@ -144,7 +144,7 @@ Now that you're seeing the pattern, try to fill out the other actions on your ow
 
 Refer to Sinatra's documentation if you're super stuck but try your best without the docs, first.
 
-## Codealong (10 minutes)
+## Catch-up (10 minutes)
 
 Awesome, great work. Everyone's should look something like this:
 
