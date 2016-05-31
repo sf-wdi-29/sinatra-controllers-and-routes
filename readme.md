@@ -19,7 +19,7 @@ Since we haven't yet jumped into making models, we're going to focus mostly on r
 
 #### It all starts with requests and responses: HTTP
 
-HTTP is structured around verbs & resources, both of which we'll talk about today.  The web is "stateless", meaning it can't remember anything past the current action it's on. We get around that by storing information in a database – which we're talking about tomorrow – and by passing extra information (aka parameters/params) along with each request.
+HTTP is structured around verbs & resources, both of which we'll talk about today.  The web is "stateless", meaning it can't remember anything past the current action it's on. We get around that by storing information in a database – which we're talking about tomorrow – and by passing extra information (aka parameters or params) along with each request.
 
 #### HTTP Verbs
 
