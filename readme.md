@@ -263,3 +263,8 @@ Before we go, let's try to define them. Here's a list of the common words, you s
 - What's a resource?
 - Which controller actions use which verbs?
 - What are the 7 common names for actions a RESTful controller needs?
+
+
+## Licensing
+All content is licensed under a CC­BY­NC­SA 4.0 license.
+All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
